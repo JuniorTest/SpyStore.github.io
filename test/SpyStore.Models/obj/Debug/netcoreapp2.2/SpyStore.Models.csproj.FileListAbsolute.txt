@@ -1,0 +1,11 @@
+D:\MQNNPHUNG\test\SpyStore.Models\bin\Debug\netcoreapp2.2\SpyStore.Models.deps.json
+D:\MQNNPHUNG\test\SpyStore.Models\bin\Debug\netcoreapp2.2\SpyStore.Models.dll
+D:\MQNNPHUNG\test\SpyStore.Models\bin\Debug\netcoreapp2.2\SpyStore.Models.pdb
+D:\MQNNPHUNG\test\SpyStore.Models\obj\Debug\netcoreapp2.2\SpyStore.Models.csprojAssemblyReference.cache
+D:\MQNNPHUNG\test\SpyStore.Models\obj\Debug\netcoreapp2.2\SpyStore.Models.csproj.CoreCompileInputs.cache
+D:\MQNNPHUNG\test\SpyStore.Models\obj\Debug\netcoreapp2.2\SpyStore.Models.AssemblyInfoInputs.cache
+D:\MQNNPHUNG\test\SpyStore.Models\obj\Debug\netcoreapp2.2\SpyStore.Models.AssemblyInfo.cs
+D:\MQNNPHUNG\test\SpyStore.Models\obj\Debug\netcoreapp2.2\SpyStore.Models.dll
+D:\MQNNPHUNG\test\SpyStore.Models\obj\Debug\netcoreapp2.2\SpyStore.Models.pdb
+D:\MQNNPHUNG\test\SpyStore.Models\bin\Debug\netcoreapp2.2\SpyStore.Models.runtimeconfig.json
+D:\MQNNPHUNG\test\SpyStore.Models\bin\Debug\netcoreapp2.2\SpyStore.Models.runtimeconfig.dev.json
